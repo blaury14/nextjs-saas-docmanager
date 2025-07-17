@@ -1,0 +1,1 @@
+// Splash con métricas clave
