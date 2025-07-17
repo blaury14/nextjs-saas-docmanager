@@ -1,3 +1,3 @@
-# Next.js SaaS Doc Manager QA
+# Next.js SaaS Doc Manager con Login
 
-Sistema funcional de gestión documental tipo Aconex.
+Sistema funcional con login por roles y navegación básica.
