@@ -1,1 +1,3 @@
-// Gestor documental con filtros y edición
+export default function Documentos() {
+  return <div>Gestor Documental con metadata y control de revisiones</div>;
+}
